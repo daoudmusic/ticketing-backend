@@ -1,4 +1,4 @@
-// Placeholder. Paste your full backend logic here from the ChatGPT-generated API.
+// À remplacer par ton code complet existant
 export default function handler(req, res) {
-  res.status(200).json({ message: "API working." });
+  res.status(200).json({ message: "API opérationnelle." });
 }

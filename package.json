@@ -13,5 +13,10 @@
     "googleapis": "^118.0.0",
     "pdf-lib": "^1.17.1",
     "resend": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.8.10",
+    "@types/react": "^18.2.21"
   }
 }
